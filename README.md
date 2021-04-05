@@ -77,6 +77,9 @@ Updated LinkedIn:
 
 A strong bio statement, a professional photo, and links to your Github and portfolio.
 
+Issues:
+you can send emails to me from the social links throughout the page but I could not get the Contact Form to send email. We would have to learn a bout PHP and we haven't yet. I liked the look and will be adding functionality at a later time.
+
 
 <a name="web-address"></a>
 ## 2. How to Get There
