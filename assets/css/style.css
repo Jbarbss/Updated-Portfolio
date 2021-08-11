@@ -14,3 +14,12 @@ body {
     margin-bottom: 20%;
 }
 
+.project2 {
+    height: 115px;
+    width: 200px;
+}
+
+.card-body {
+    height: 200px
+}
+
